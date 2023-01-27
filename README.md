@@ -1,3 +1,4 @@
+
 # Places Around Me
 ## AIM:
 To develop a website to display details about the places around my house.
@@ -199,20 +200,20 @@ The uses of Washerman's Lake in Ariyalur District are
 ```
 
 ## Output:
-![OUTPUT](./screenshot/out1.png)
+![Output](./screenshot/out1.png)
 
-![OUTPUT](./screenshot/out2.png)
+![Output](./screenshot/out2.png)
 
-![OUTPUT](./screenshot/out3.png)
+![Output](./screenshot/out3.png)
 
-![OUTPUT](./screenshot/out4.png)
+![Output](./screenshot/out4.png)
 
-![OUTPUT](./screenshot/out5.png)
+![Output](./screenshot/out5.png)
 
-![OUTPUT](./screenshot/out6.png)
+![Output](./screenshot/out6.png)
 
-## HTML validate:
-![HTML VALIDATOR](./screenshot/valid.png)
+## HTML validator:
+![HTML validator](./screenshot/valid.png)
 
 ## Result:
 
